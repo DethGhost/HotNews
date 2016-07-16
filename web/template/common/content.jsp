@@ -4,7 +4,7 @@
             <h1 class="breakingNews">Breaking news:</h1>
             <article class="hotPost">
                 <div class="thumbBig">
-                    <img src="../img/trump.jpg" width="700px"
+                    <img src="../../img/trump.jpg" width="700px"
                          title="Ryan: Voters Picked Trump, 'That's Not Something I Can Control'"
                          alt="Ryan: Voters Picked Trump, 'That's Not Something I Can Control'"/>
                 </div>
@@ -62,7 +62,7 @@ Ryan explicitly denied that he was choosing party over country.</span>
 
             <article class="grid">
                 <div class="thumb">
-                    <img src="../img/obama.jpg" width="300px"
+                    <img src="../../img/obama.jpg" width="300px"
                          title="Why Is Obama Campaigning So Hard Against Trump?"
                          alt="Why Is Obama Campaigning So Hard Against Trump?"/>
                 </div>
@@ -76,7 +76,7 @@ Ryan explicitly denied that he was choosing party over country.</span>
             </article>
             <article class="grid">
                 <div class="thumb">
-                    <img src="../img/china.jpg" width="300px"
+                    <img src="../../img/china.jpg" width="300px"
                          title="China's most underrated region"
                          alt="China's most underrated region"/>
                 </div>
@@ -89,7 +89,7 @@ Ryan explicitly denied that he was choosing party over country.</span>
             </article>
             <article class="grid">
                 <div class="thumb">
-                    <img src="../img/obama.jpg" width="300px"
+                    <img src="../../img/obama.jpg" width="300px"
                          title="Why Is Obama Campaigning So Hard Against Trump?"
                          alt="Why Is Obama Campaigning So Hard Against Trump?"/>
                 </div>

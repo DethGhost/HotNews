@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="ru">
 <jsp:include page="template/common/head.jsp"/>
-<jsp:include page="template/common/content.jsp"/>
+<jsp:include page="template/login/register.jsp"/>
 <jsp:include page="template/common/footer.jsp"/>
 </body>
 </html>
