@@ -13,6 +13,7 @@
                         Voters Picked Trump, 'That's Not Something I Can Control'</a>
                 </h2>
                 <div class="previewBig">
+
 <span>Speaker of the House Paul Ryan, R-Wisc., is standing by Donald Trump, but he won't force fellow Republicans to do the same.
 In an exclusive interview with NBC's Chuck Todd, Ryan said his duty as Speaker of the House is to keep the Republican Party united.
 He explained, "Imagine the Speaker of the House not supporting the duly elected nominee of our party, therefore creating a chasm in our party that splits us in half?"
