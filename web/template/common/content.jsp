@@ -1,3 +1,4 @@
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <section class="wrapper">
     <div class="content">
         <div class="colLeft">
@@ -10,10 +11,15 @@
                 </div>
                 <h2 class="bigNews">
                     <a href="news1.jsp" title="Ryan: Voters Picked Trump, 'That's Not Something I Can Control'"> Ryan:
-                        Voters Picked Trump, 'That's Not Something I Can Control'</a>
+                        Voters Picked Trump, 'That's Not Something I Can Control'
+                        <br />
+                    Session = ${sessionScope.get("someInt")}
+                        Request = ${someInt}
+                        <br />
+                        Users = <c:forEach items="${Users}" var="user" ><p>${user}</p></c:forEach>
+                    </a>
                 </h2>
                 <div class="previewBig">
-
 <span>Speaker of the House Paul Ryan, R-Wisc., is standing by Donald Trump, but he won't force fellow Republicans to do the same.
 In an exclusive interview with NBC's Chuck Todd, Ryan said his duty as Speaker of the House is to keep the Republican Party united.
 He explained, "Imagine the Speaker of the House not supporting the duly elected nominee of our party, therefore creating a chasm in our party that splits us in half?"

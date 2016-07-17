@@ -38,15 +38,15 @@
             <ul>
                 <li><a href="/home" class="fa fa-home fa-2x" aria-hidden="true" alt="Home" title="Home page of best news">
                     Home</a></li>
-                <li><a href="/archive.jsp" class="fa fa-2x" alt="Archived news" title="Archived news">Archive</a></li>
-                <li><a href="/my.jsp" class="fa fa-2x" alt="My page" title="My page">My page</a></li>
+                <li><a href="/archive" class="fa fa-2x" alt="Archived news" title="Archived news">Archive</a></li>
+                <li><a href="/my" class="fa fa-2x" alt="My page" title="My page">My page</a></li>
                 <li><a href="/login" class="fa fa-2x" alt="Login page" title="Login page">Sign In</a></li>
                 <li><a href="/register" class="fa fa-2x" alt="Registration page" title="Registration page">Sign
                     Up</a></li>
             </ul>
         </div>
         <div class="search">
-            <form id="search">
+            <form id="search" method="get">
                 <input form="search" class="searchForm" type="search" alt="Search here" title="Search form" width="60"
                        placeholder="Search">
                 <button form="search" type="submit">GO</button>

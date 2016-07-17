@@ -180,10 +180,15 @@ button:active {
 .colLeft {
     width: 100%;
     max-width: 750px;
+    min-height: 500px;
     position: relative;
     left: 10px;
     top: 10px;
 
+}
+.signIn{
+    margin-left: 40%;
+    padding-top: 10%;
 }
 
 .hotPost {
@@ -251,6 +256,9 @@ aside .topNews {
 }
 
 .topList li {
+    min-width: 360px;
+    min-height: 50px;
+    vertical-align: 50%;
     padding-top: 5px;
     padding-bottom: 10px;
     text-shadow: 0 0 1px grey;
